@@ -1,8 +1,5 @@
 package project1_m8;
 
-
-
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
